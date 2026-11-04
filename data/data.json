@@ -1,0 +1,86 @@
+{
+  "employees": [
+    {
+      "name": "sangam",
+      "email": "kaushik@gmail.com",
+      "department": "HR",
+      "designation": "SD",
+      "salary": 1.0,
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "name": "aryan",
+      "email": "aryan@gmail.com",
+      "department": "management",
+      "designation": "SD",
+      "salary": 35000.0,
+      "status": "Active",
+      "id": 2
+    },
+    {
+      "name": "shubham",
+      "email": "kasujsh",
+      "department": "HR",
+      "designation": "SD",
+      "salary": 20000.0,
+      "status": "Active",
+      "id": 3
+    },
+    {
+      "name": "neeraj",
+      "email": "string",
+      "department": "string",
+      "designation": "string",
+      "salary": 1.0,
+      "status": "Active",
+      "id": 4
+    },
+    {
+      "name": "neeraj",
+      "email": "shamrma@gmail.com",
+      "department": "HR",
+      "designation": "SD",
+      "salary": 50000.0,
+      "status": "Active",
+      "id": 5
+    },
+    {
+      "name": "jatin",
+      "email": "jatin@gmail.com",
+      "department": "IT",
+      "designation": "SD",
+      "salary": 1.0,
+      "status": "Active",
+      "id": 6
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "management"
+    },
+    {
+      "id": 2,
+      "name": "HR"
+    },
+    {
+      "id": 3,
+      "name": "Sales"
+    },
+    {
+      "id": 4,
+      "name": "string"
+    },
+    {
+      "id": 5,
+      "name": "blockchain"
+    },
+    {
+      "id": 6,
+      "name": "IT"
+    }
+  ],
+  "next_employee_id": 7,
+  "next_department_id": 7
+}
