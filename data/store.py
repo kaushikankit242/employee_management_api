@@ -5,7 +5,7 @@ from pathlib import Path
 from threading import RLock
 from typing import TypedDict
 
-from APP.exception import InvalidStoreData
+from app.exceptions import InvalidStoreData
 
 
 class EmployeeRecord(TypedDict):

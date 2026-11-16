@@ -1,6 +1,6 @@
 from data import store
 
-from ..exception import DepartmentNotFound, EmployeeNotFound
+from ..exceptions import DepartmentNotFound, EmployeeNotFound
 
 
 def get_employee(employee_id: int) -> dict | None:
